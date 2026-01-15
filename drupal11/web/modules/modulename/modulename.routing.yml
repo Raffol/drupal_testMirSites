@@ -1,0 +1,7 @@
+modulename.hellow:
+  path: '/hellow'
+  defaults:
+    _controller: '\Drupal\modulename\Controller\ModulenameController::hellow'
+    _title: 'hellow'
+  requirements:
+    _permission: 'access content'

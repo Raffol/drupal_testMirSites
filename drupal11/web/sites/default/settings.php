@@ -864,11 +864,19 @@ $databases['default']['default'] = array (
   'username' => 'root',
   'password' => 'root',
   'prefix' => '',
-  'host' => 'localhost',
-  'port' => '3306',
+  'host' => '127.0.0.1',
+  'port' => '8889',
   'isolation_level' => 'READ COMMITTED',
   'driver' => 'mysql',
   'namespace' => 'Drupal\\mysql\\Driver\\Database\\mysql',
   'autoload' => 'core/modules/mysql/src/Driver/Database/mysql/',
 );
 $settings['config_sync_directory'] = 'sites/default/files/config_KxdQn-CnAqlAj-zyTaz0k-7QBbAkEkY4W0IE88jE0Nc83D7PAyGXacbei25rZHM32RYgMyamKg/sync';
+
+$settings['trusted_host_patterns'] = [
+  '^localhost$',
+  '^127\.0\.0\.1$',
+];
+
+$base_url = 'http://localhost';
+
