@@ -1,0 +1,10 @@
+name: 'RSVP list'
+type: module
+core_version_requirement: ^11
+description: RSVP for Events
+package: RSVP list
+
+dependencies:
+  -drupl:block
+configure: rsvplist.admin_settings
+

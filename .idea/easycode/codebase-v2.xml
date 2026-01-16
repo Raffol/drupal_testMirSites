@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="com.obiscr.chatgpt.settings.EasyCodeState">
+    <option name="projectFiles" value="$PROJECT_DIR$/drupal11/web/modules/custom/mymodule/src/Controller/FirstController.php;/Applications/MAMP/htdocs/drupal_testMirSaitov/drupal11/web/modules/custom/rsvplist/src/Form/RSVPForm.php;/Applications/MAMP/htdocs/drupal_testMirSaitov/drupal11/web/modules/modulename/README.md;/Applications/MAMP/htdocs/drupal_testMirSaitov/drupal11/web/README.md;/Applications/MAMP/htdocs/drupal_testMirSaitov/drupal11/web/un.php;/Applications/MAMP/htdocs/drupal_testMirSaitov/drupal11/composer.json" />
+  </component>
+</project>

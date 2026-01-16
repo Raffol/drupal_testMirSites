@@ -1,0 +1,5 @@
+name: 'My first custom module'
+type: module
+core_version_requirement: ^11
+description: 'my module for understanding'
+package: 'Acquia Module course'
