@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5b931af-25cb-4c85-a3e5-6e81a9301731" name="Changes" comment="feat: some files 4 training !" />
+    <list default="true" id="e5b931af-25cb-4c85-a3e5-6e81a9301731" name="Changes" comment="feat: some files 4 training !">
+      <change beforePath="$PROJECT_DIR$/drupal11/web/modules/custom/rsvplist/rsvplist.install.php" beforeDir="false" afterPath="$PROJECT_DIR$/drupal11/web/modules/custom/rsvplist/rsvplist.install.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -557,7 +559,7 @@
       <workItem from="1768477847368" duration="4375000" />
       <workItem from="1768488464644" duration="618000" />
       <workItem from="1768526726500" duration="8461000" />
-      <workItem from="1768545736432" duration="5617000" />
+      <workItem from="1768545736432" duration="5921000" />
     </task>
     <task id="LOCAL-00001" summary="feat: index.php">
       <option name="closed" value="true" />
